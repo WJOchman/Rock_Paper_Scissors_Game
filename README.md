@@ -1,3 +1,3 @@
-# Rock_Paper_Scissors_Game
+<h1>Rock, Paper, Scissors Game</h1>
 
-this is a java and xml project
+<p>This project is a rock, paper and scissors game for the Android OS system using Java and XML.</p>
